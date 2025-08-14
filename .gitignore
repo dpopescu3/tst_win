@@ -1,0 +1,18 @@
+﻿# Build artifacts / temp
+build/
+*.o
+*.obj
+*.ilk
+*.pdb
+*.idb
+*.dll
+*.lib
+*.exp
+
+# Qt/Creator user state
+*.pro.user*
+.qtc_clangd/
+compile_commands.json
+
+# macOS bundles
+*.app/

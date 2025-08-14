@@ -1,0 +1,11 @@
+Found perfect number: 6
+Found perfect number: 28
+Found perfect number: 496
+
+Done searching up to 1000
+
+
+[Program exiting due to window close event]
+
+
+[Program exiting due to window close event]

@@ -1,0 +1,18 @@
+^D
+Tests are grouped by filename or by type.
+Select the test groups you wish to run:
+----------------------------------------
+  0) None (instead execute ordinary main() function)
+  1) From PROVIDED_TEST
+  2) From perfect.cpp
+  3) From soundex.cpp
+  4) All of the above tests
+Enter your selection: 0
+No tests selected.
+
+Found perfect number: 6
+Found perfect number: 28
+Found perfect number: 496
+Found perfect number: 8128
+...
+main() completed.

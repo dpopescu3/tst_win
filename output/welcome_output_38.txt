@@ -1,0 +1,4 @@
+^DSCREENSHOT_MODE=1 ./CppLegs.app/Contents/MacOS/CppLegs
+exit
+/Users/diana/.zshrc:29: command not found: pyenv
+%                                                                               diana@Dianas-MacBook-Pro-7 starter-assign1 % [?2004h[?2004l

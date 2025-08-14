@@ -1,0 +1,106 @@
+^D
+Tests are grouped by filename or by type.
+Select the test groups you wish to run:
+----------------------------------------
+  0) None (instead execute ordinary main() function)
+  1) From PROVIDED_TEST
+  2) From perfect.cpp
+  3) From soundex.cpp
+  4) All of the above tests
+Enter your selection: 4
+
+[SimpleTest] ---- Tests from perfect.cpp -----
+[SimpleTest] starting (PROVIDED_TEST, line 106) Confirm divisorSum of small in...  =  Correct
+[SimpleTest] starting (PROVIDED_TEST, line 112) Confirm 6 and 28 are perfect.....  =  Correct
+[SimpleTest] starting (PROVIDED_TEST, line 117) Confirm 12 and 98765 are not p...  =  Correct
+[SimpleTest] starting (PROVIDED_TEST, line 122) Test oddballs: 0 and 1 are not...  =  Correct
+[SimpleTest] starting (PROVIDED_TEST, line 126) Confirm 33550336 is perfect......  =  Correct
+[SimpleTest] starting (PROVIDED_TEST, line 130) Time trial of findPerfects on ... Found perfect number: 6
+Found perfect number: 28
+Found perfect number: 496
+
+Done searching up to 1000
+Found perfect number: 6
+Found perfect number: 28
+Found perfect number: 496
+
+Done searching up to 1000
+ =  Correct
+    Line 131 TIME_OPERATION findPerfectsSmarter(1000) (size =	  1000) completed in	0.012 secs
+    Line 132 TIME_OPERATION findPerfectsSmarter(1000) (size =	  1000) completed in	0.013 secs
+
+[SimpleTest] ---- Tests from soundex.cpp -----
+[SimpleTest] starting (PROVIDED_TEST, line 110) Test exclude of punctuation, d...  =  Correct
+[SimpleTest] starting (PROVIDED_TEST, line 130) Sample inputs from handout.......  =  Correct
+[SimpleTest] starting (PROVIDED_TEST, line 135) hanrahan is in lowercase.........  =  Correct
+[SimpleTest] starting (PROVIDED_TEST, line 139) DRELL is in uppercase............  =  Correct
+[SimpleTest] starting (PROVIDED_TEST, line 143) Liu has to be padded with zero...  =  Correct
+[SimpleTest] starting (PROVIDED_TEST, line 147) Tessier-Lavigne has a hyphen.....  =  Correct
+[SimpleTest] starting (PROVIDED_TEST, line 151) Au consists of only vowels.......  =  Correct
+[SimpleTest] starting (PROVIDED_TEST, line 157) Egilsdottir is long and starts...  =  Correct
+[SimpleTest] starting (PROVIDED_TEST, line 161) Jackson has three adjcaent dup...  =  Correct
+[SimpleTest] starting (PROVIDED_TEST, line 165) Schwarz begins with a pair of ...  =  Correct
+[SimpleTest] starting (PROVIDED_TEST, line 169) Van Niekerk has a space betwee...  =  Correct
+[SimpleTest] starting (PROVIDED_TEST, line 173) Wharton begins with Wh...........  =  Correct
+[SimpleTest] starting (PROVIDED_TEST, line 177) Ashcraft is not a special case...  =  Correct
+You passed 19 of 19 tests. Right on!
+
+
+
+[Program exiting due to window close event]
+
+
+[Program exiting due to window close event]
+^D
+Tests are grouped by filename or by type.
+Select the test groups you wish to run:
+----------------------------------------
+  0) None (instead execute ordinary main() function)
+  1) From PROVIDED_TEST
+  2) From perfect.cpp
+  3) From soundex.cpp
+  4) All of the above tests
+Enter your selection: 4
+
+[SimpleTest] ---- Tests from perfect.cpp -----
+[SimpleTest] starting (PROVIDED_TEST, line 106) Confirm divisorSum of small in...  =  Correct
+[SimpleTest] starting (PROVIDED_TEST, line 112) Confirm 6 and 28 are perfect.....  =  Correct
+[SimpleTest] starting (PROVIDED_TEST, line 117) Confirm 12 and 98765 are not p...  =  Correct
+[SimpleTest] starting (PROVIDED_TEST, line 122) Test oddballs: 0 and 1 are not...  =  Correct
+[SimpleTest] starting (PROVIDED_TEST, line 126) Confirm 33550336 is perfect......  =  Correct
+[SimpleTest] starting (PROVIDED_TEST, line 130) Time trial of findPerfects on ... Found perfect number: 6
+Found perfect number: 28
+Found perfect number: 496
+
+Done searching up to 1000
+Found perfect number: 6
+Found perfect number: 28
+Found perfect number: 496
+
+Done searching up to 1000
+ =  Correct
+    Line 131 TIME_OPERATION findPerfectsSmarter(1000) (size =	  1000) completed in	0.012 secs
+    Line 132 TIME_OPERATION findPerfectsSmarter(1000) (size =	  1000) completed in	0.013 secs
+
+[SimpleTest] ---- Tests from soundex.cpp -----
+[SimpleTest] starting (PROVIDED_TEST, line 110) Test exclude of punctuation, d...  =  Correct
+[SimpleTest] starting (PROVIDED_TEST, line 130) Sample inputs from handout.......  =  Correct
+[SimpleTest] starting (PROVIDED_TEST, line 135) hanrahan is in lowercase.........  =  Correct
+[SimpleTest] starting (PROVIDED_TEST, line 139) DRELL is in uppercase............  =  Correct
+[SimpleTest] starting (PROVIDED_TEST, line 143) Liu has to be padded with zero...  =  Correct
+[SimpleTest] starting (PROVIDED_TEST, line 147) Tessier-Lavigne has a hyphen.....  =  Correct
+[SimpleTest] starting (PROVIDED_TEST, line 151) Au consists of only vowels.......  =  Correct
+[SimpleTest] starting (PROVIDED_TEST, line 157) Egilsdottir is long and starts...  =  Correct
+[SimpleTest] starting (PROVIDED_TEST, line 161) Jackson has three adjcaent dup...  =  Correct
+[SimpleTest] starting (PROVIDED_TEST, line 165) Schwarz begins with a pair of ...  =  Correct
+[SimpleTest] starting (PROVIDED_TEST, line 169) Van Niekerk has a space betwee...  =  Correct
+[SimpleTest] starting (PROVIDED_TEST, line 173) Wharton begins with Wh...........  =  Correct
+[SimpleTest] starting (PROVIDED_TEST, line 177) Ashcraft is not a special case...  =  Correct
+You passed 19 of 19 tests. Right on!
+
+
+
+[Program exiting due to window close event]
+
+
+[Program exiting due to window close event]

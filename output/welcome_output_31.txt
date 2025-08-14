@@ -1,0 +1,68 @@
+^D
+Tests are grouped by filename or by type.
+Select the test groups you wish to run:
+----------------------------------------
+  0) None (instead execute ordinary main() function)
+  1) From PROVIDED_TEST
+  2) From perfect.cpp
+  3) From soundex.cpp
+  4) All of the above tests
+Enter your selection: 2
+
+[SimpleTest] ---- Tests from perfect.cpp -----
+[SimpleTest] starting (PROVIDED_TEST, line 105) Confirm divisorSum of small in...  =  Correct
+[SimpleTest] starting (PROVIDED_TEST, line 111) Confirm 6 and 28 are perfect.....  =  Correct
+[SimpleTest] starting (PROVIDED_TEST, line 116) Confirm 12 and 98765 are not p...  =  Correct
+[SimpleTest] starting (PROVIDED_TEST, line 121) Test oddballs: 0 and 1 are not...  =  Correct
+[SimpleTest] starting (PROVIDED_TEST, line 125) Confirm 33550336 is perfect......  =  Correct
+[SimpleTest] starting (PROVIDED_TEST, line 129) Time trial of findPerfects on ... Found perfect number: 6
+Found perfect number: 28
+Found perfect number: 496
+Found perfect number: 6
+Found perfect number: 28
+Found perfect number: 496
+ =  Correct
+    Line 130 TIME_OPERATION findPerfectsSmarter(1000) (size =	  1000) completed in	0.007 secs
+    Line 131 TIME_OPERATION findPerfectsSmarter(1000) (size =	  1000) completed in	0.008 secs
+You passed 6 of 6 tests. Lo hiciste!
+
+
+
+[Program exiting due to window close event]
+
+
+[Program exiting due to window close event]
+^D
+Tests are grouped by filename or by type.
+Select the test groups you wish to run:
+----------------------------------------
+  0) None (instead execute ordinary main() function)
+  1) From PROVIDED_TEST
+  2) From perfect.cpp
+  3) From soundex.cpp
+  4) All of the above tests
+Enter your selection: 2
+
+[SimpleTest] ---- Tests from perfect.cpp -----
+[SimpleTest] starting (PROVIDED_TEST, line 105) Confirm divisorSum of small in...  =  Correct
+[SimpleTest] starting (PROVIDED_TEST, line 111) Confirm 6 and 28 are perfect.....  =  Correct
+[SimpleTest] starting (PROVIDED_TEST, line 116) Confirm 12 and 98765 are not p...  =  Correct
+[SimpleTest] starting (PROVIDED_TEST, line 121) Test oddballs: 0 and 1 are not...  =  Correct
+[SimpleTest] starting (PROVIDED_TEST, line 125) Confirm 33550336 is perfect......  =  Correct
+[SimpleTest] starting (PROVIDED_TEST, line 129) Time trial of findPerfects on ... Found perfect number: 6
+Found perfect number: 28
+Found perfect number: 496
+Found perfect number: 6
+Found perfect number: 28
+Found perfect number: 496
+ =  Correct
+    Line 130 TIME_OPERATION findPerfectsSmarter(1000) (size =	  1000) completed in	0.007 secs
+    Line 131 TIME_OPERATION findPerfectsSmarter(1000) (size =	  1000) completed in	0.008 secs
+You passed 6 of 6 tests. Lo hiciste!
+
+
+
+[Program exiting due to window close event]
+
+
+[Program exiting due to window close event]

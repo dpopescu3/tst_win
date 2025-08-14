@@ -1,0 +1,32 @@
+^D
+Tests are grouped by filename or by type.
+Select the test groups you wish to run:
+----------------------------------------
+  0) None (instead execute ordinary main() function)
+  1) From PROVIDED_TEST
+  2) From perfect.cpp
+  3) From soundex.cpp
+  4) All of the above tests
+Enter your selection: 3
+
+[SimpleTest] ---- Tests from soundex.cpp -----
+[SimpleTest] starting (PROVIDED_TEST, line 110) Test exclude of punctuation, d...  =  Correct
+[SimpleTest] starting (PROVIDED_TEST, line 130) Sample inputs from handout.......  =  Correct
+[SimpleTest] starting (PROVIDED_TEST, line 135) hanrahan is in lowercase.........  =  Correct
+[SimpleTest] starting (PROVIDED_TEST, line 139) DRELL is in uppercase............  =  Correct
+[SimpleTest] starting (PROVIDED_TEST, line 143) Liu has to be padded with zero...  =  Correct
+[SimpleTest] starting (PROVIDED_TEST, line 147) Tessier-Lavigne has a hyphen.....  =  Correct
+[SimpleTest] starting (PROVIDED_TEST, line 151) Au consists of only vowels.......  =  Correct
+[SimpleTest] starting (PROVIDED_TEST, line 157) Egilsdottir is long and starts...  =  Correct
+[SimpleTest] starting (PROVIDED_TEST, line 163) Schwarz begins with a pair of ...  =  Correct
+[SimpleTest] starting (PROVIDED_TEST, line 167) Van Niekerk has a space betwee...  =  Correct
+[SimpleTest] starting (PROVIDED_TEST, line 171) Wharton begins with Wh...........  =  Correct
+[SimpleTest] starting (PROVIDED_TEST, line 179) Ashcraft is not a special case...  =  Correct
+You passed 12 of 12 tests. Love it!
+
+
+
+[Program exiting due to window close event]
+
+
+[Program exiting due to window close event]

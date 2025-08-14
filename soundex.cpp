@@ -140,6 +140,14 @@ PROVIDED_TEST("DRELL is in uppercase") {
     EXPECT_EQUAL(soundex("DRELL"), "D640");
 }
 
+PROVIDED_TEST("DRELL is in uppercase") {
+    EXPECT_EQUAL(soundex("DRELL"), "D640");
+}
+
+PROVIDED_TEST("DRELL is in uppercase") {
+    EXPECT_EQUAL(soundex("DRELL"), "D640");
+}
+
 PROVIDED_TEST("Liu has to be padded with zeros") {
     EXPECT_EQUAL(soundex("Liu"), "L000");
 }
